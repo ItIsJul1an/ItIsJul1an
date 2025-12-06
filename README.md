@@ -20,7 +20,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 🌱 I'm currently learning: **📚 Vue.js**
-- 💬 Ask me about: **💡 TypeScript, React, Node.js, Postgres, and RESTful APIs**
+- 💬 Ask me about: **💡 TypeScript, React, Node.js, PostgreSQL, and RESTful APIs**
 - 📂 Portfolio: **<a href="berger-dev.at" target="_blank">berger-dev.at</a>**
 
  **<h3 align="left">Skills</h3>**
@@ -31,11 +31,4 @@
 
 <p align="left">
   <img width="48%" src="https://streak-stats.demolab.com/?user=ItIsJul1an&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ItIsJul1an&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
 </p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItIsJul1an&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ItIsJul1an&repo=&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
-</p>
-
