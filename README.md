@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 🌱 I'm currently learning: **📚 Vue.js**
+- 🌱 I'm currently learning: **📚 Flutter & React Native**
 - 💬 Ask me about: **💡 TypeScript, React, Node.js, PostgreSQL, and RESTful APIs**
 - 📂 Portfolio: **<a href="berger-dev.at" target="_blank">berger-dev.at</a>**
 
