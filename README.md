@@ -21,7 +21,7 @@
 
 - 🌱 I'm currently learning: **📚 Flutter & React Native**
 - 💬 Ask me about: **💡 TypeScript, React, Node.js, PostgreSQL, and RESTful APIs**
-- 📂 Portfolio: **<a href="berger-dev.at" target="_blank">berger-dev.at</a>**
+- 📂 Portfolio: **<a href="https://www.berger-dev.at" target="_blank">berger-dev.at</a>**
 
  **<h3 align="left">Skills</h3>**
 
